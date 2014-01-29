@@ -1,0 +1,12 @@
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\test.Form1.resources
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\test.Properties.Resources.resources
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\Bob's Poop Tools.csproj.GenerateResource.Cache
+F:\Code\Bob's Poop Tools\test\bin\Debug\test.exe.config
+F:\Code\Bob's Poop Tools\test\bin\Debug\test.exe
+F:\Code\Bob's Poop Tools\test\bin\Debug\test.pdb
+F:\Code\Bob's Poop Tools\test\bin\Debug\lua51.dll
+F:\Code\Bob's Poop Tools\test\bin\Debug\LuaInterface.dll
+F:\Code\Bob's Poop Tools\test\bin\Debug\xdrpc.dll
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\test.exe
+F:\Code\Bob's Poop Tools\test\obj\x86\Debug\test.pdb

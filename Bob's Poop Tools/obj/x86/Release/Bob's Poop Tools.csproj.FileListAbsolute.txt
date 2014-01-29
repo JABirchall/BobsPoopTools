@@ -1,0 +1,98 @@
+E:\Bob's Poop Tool\test\bin\Release\test.exe.config
+E:\Bob's Poop Tool\test\bin\Release\test.exe
+E:\Bob's Poop Tool\test\bin\Release\test.pdb
+E:\Bob's Poop Tool\test\bin\Release\lua51.dll
+E:\Bob's Poop Tool\test\bin\Release\LuaInterface.dll
+E:\Bob's Poop Tool\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+E:\Bob's Poop Tool\test\obj\x86\Release\test.Form1.resources
+E:\Bob's Poop Tool\test\obj\x86\Release\test.Properties.Resources.resources
+E:\Bob's Poop Tool\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+E:\Bob's Poop Tool\test\obj\x86\Release\test.exe
+E:\Bob's Poop Tool\test\obj\x86\Release\test.pdb
+E:\Bob's Poop Tools\test\bin\Release\test.exe.config
+E:\Bob's Poop Tools\test\obj\x86\Release\test.exe
+E:\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+E:\Bob's Poop Tools\test\bin\Release\test.exe
+E:\Bob's Poop Tools\test\bin\Release\test.pdb
+E:\Bob's Poop Tools\test\bin\Release\lua51.dll
+E:\Bob's Poop Tools\test\bin\Release\LuaInterface.dll
+E:\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+E:\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+E:\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+E:\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+F:\Code\Bob's Poop Tools\test\bin\Release\test.exe.config
+F:\Code\Bob's Poop Tools\test\bin\Release\test.exe
+F:\Code\Bob's Poop Tools\test\bin\Release\test.pdb
+F:\Code\Bob's Poop Tools\test\bin\Release\lua51.dll
+F:\Code\Bob's Poop Tools\test\bin\Release\LuaInterface.dll
+F:\Code\Bob's Poop Tools\test\bin\Release\xdrpc.dll
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\test.exe
+F:\Code\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.exe.config
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.exe
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.pdb
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\lua51.dll
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\LuaInterface.dll
+F:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\xdrpc.dll
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.exe
+F:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.exe
+E:\Xbox360\Code\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.exe.config
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.exe
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\test.pdb
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\lua51.dll
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\LuaInterface.dll
+E:\Xbox360\Code\Bob's Poop Tools\test\bin\Release\xdrpc.dll
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.exe.config
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.exe
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.exe
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.pdb
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Domo\Desktop\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.exe.config
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.exe
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.exe
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\bin\Release\test.pdb
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+F:\Domo\xbox\Bob's Poop Tools\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\bin\Release\test.exe.config
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\test.exe
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\bin\Release\test.exe
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\bin\Release\test.pdb
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\test.Form1.resources
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Xbox\trunk\Bob's Poop Tools\test\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Xbox360\SVN\trunk\Bob's Poop Tools\test\bin\Release\test.exe.config
+C:\Users\Administrator\Desktop\Xbox360\SVN\trunk\Bob's Poop Tools\test\obj\x86\Release\test.exe
+C:\Users\Administrator\Desktop\Xbox360\SVN\trunk\Bob's Poop Tools\test\obj\x86\Release\test.pdb
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\bin\Release\test.exe.config
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\bin\Release\test.exe
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\bin\Release\test.pdb
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\Bob's Poop Tools.csprojResolveAssemblyReference.cache
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\test.Form1.resources
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\test.Properties.Resources.resources
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\Bob's Poop Tools.csproj.GenerateResource.Cache
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\test.exe
+C:\xvzxcbvxcbxcf\code\Bob's Poop Tools\obj\x86\Release\test.pdb

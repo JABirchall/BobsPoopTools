@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D79DE7D-B5ED-4B7D-A5EA-DB140C770D8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>test</RootNamespace>
+    <AssemblyName>test</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="lua51, Version=0.0.0.0, Culture=neutral, PublicKeyToken=1e1fb15b02227b8a, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\lua51.dll</HintPath>
+    </Reference>
+    <Reference Include="LuaInterface, Version=2.0.0.16708, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\LuaInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="xdevkit, Version=2.0.21173.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\References\xdevkit.dll</HintPath>
+    </Reference>
+    <Reference Include="xdrpc, Version=2.0.21250.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\xdrpc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BO2\Addresses.cs" />
+    <Compile Include="BO2\SuaveLib.cs" />
+    <Compile Include="BO2\TimeHelper.cs" />
+    <Compile Include="BO2\UnlockAllData.cs" />
+    <Compile Include="Classes\Mis.cs" />
+    <Compile Include="Classes\OS.cs" />
+    <Compile Include="Classes\XDKUtilities.cs" />
+    <Compile Include="Classes\XUID.cs" />
+    <Compile Include="GhostTool\AddCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GhostTool\Ghost.cs" />
+    <Compile Include="GhostTool\GhostStats.cs" />
+    <Compile Include="lau\lau.cs" />
+    <Compile Include="lau\LuaBindings.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\AccountNameTakenException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\CommonErrorCodes.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ConnectionToLiveFailedException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ConsoleLanguage.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ConsoleProfile.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ConsoleProfilesManager.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ConsoleProfilesManagerFactory.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\Friend.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\FriendRequestStatus.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\FriendsManager.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\FriendsManagerFactory.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\FriendStatus.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\Gamer.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\IFriendsSupport.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\IPartySupport.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\IProfileSupport.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\NoSuchUserException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\NotInPartyException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyConnectFailedException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyConnectionLostException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyErrorCodes.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyFriendsOnlyException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyFullException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyInviteOnlyException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyKickedException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyManager.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyManagerFactory.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyMember.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\PartyTimeOutException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ProfileCreationException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ProfilesException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\ProfilesExceptionFactory.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\SignInState.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\SubscriptionTier.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\TooManyProfilesException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\UserIndex.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\UserNotConnectedToLiveException.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\XboxLiveCountry.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\XOnlineHRCodes.cs" />
+    <Compile Include="Microsoft\Test\Xbox\Profiles\Xuid.cs" />
+    <Compile Include="ProfilesTools\Profiles.cs" />
+    <Compile Include="ProfilesTools\UserIndex.cs" />
+    <Compile Include="ProfilesTools\XboxLiveCountry.cs" />
+    <Compile Include="Tools\Addresses.cs" />
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\IniFile.cs" />
+    <Compile Include="ProfilesTools\Gamer.cs" />
+    <Compile Include="ProfilesTools\XOnlineHRCodes.cs" />
+    <Compile Include="ProfilesTools\Xuid.cs" />
+    <Compile Include="ProfilesTools\XuidTester.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XDevkitExt\console.cs" />
+    <Compile Include="XDevkitExt\Functions.cs" />
+    <Compile Include="XDevkitExt\rpc.cs" />
+    <Compile Include="XDevkitExt\Utils.cs" />
+    <Compile Include="XRPCLib\XRPC.cs" />
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
